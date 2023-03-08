@@ -1,0 +1,8 @@
+
+@media (min-width: 992px){
+.dropmenu {
+    position: absolute;
+    /* right: 102px !important; */
+    left: -110px !important;
+}
+}
